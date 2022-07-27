@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://your-solution-url.com)
-- Live Site URL: [GitHub Pages](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/wesleyjacoby/Product-Preview-Card)
+- Live Site URL: [GitHub Pages](https://wesleyjacoby.github.io/Product-Preview-Card/)
 
 ## My process
 
